@@ -1,0 +1,61 @@
+h1{
+    
+    text-align: center;
+}
+
+.clap{
+    color: #108989;
+}
+
+
+/* nvabar css */
+/* make nav tranparent */
+
+
+nav{
+    background-color: #B9B4C7;
+    
+    
+    
+    color: #108989;
+}
+
+/* p{
+    background-color: #108989;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+    
+} */
+
+.custom-carousel-content{
+    margin-left: 400px;
+    margin-bottom: 100px;
+}
+
+
+/* carousel */
+
+.home-slide{
+    /* Set your desired maximum width here */
+   margin: 0 auto; /* This centers the div horizontally on the page */
+   width: 100%;
+   height: 400px;
+   background-color: #5C5470;
+   margin-top: 96px;
+   
+   object-fit: cover;
+   overflow: hidden;
+   
+   
+}
+
+.footer-align{
+    text-align: center;
+    background: #B9B4C7;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #9D76C1; /* Change the background color as needed */
+}
